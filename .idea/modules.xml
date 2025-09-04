@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amzon-product/amzon-product.iml" filepath="$PROJECT_DIR$/amzon-product/amzon-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/arrayReference.iml" filepath="$PROJECT_DIR$/.idea/arrayReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-project/company-project.iml" filepath="$PROJECT_DIR$/company-project/company-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/institute - trainee/institute - trainee.iml" filepath="$PROJECT_DIR$/institute - trainee/institute - trainee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-system/library-system.iml" filepath="$PROJECT_DIR$/library-system/library-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lok-sabha/lok-sabha.iml" filepath="$PROJECT_DIR$/lok-sabha/lok-sabha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/police-station/police-station.iml" filepath="$PROJECT_DIR$/police-station/police-station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppingmall-shop/shoppingmall-shop.iml" filepath="$PROJECT_DIR$/shoppingmall-shop/shoppingmall-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theatre-system/theatre-system.iml" filepath="$PROJECT_DIR$/theatre-system/theatre-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/watchshop-watch/watchshop-watch.iml" filepath="$PROJECT_DIR$/watchshop-watch/watchshop-watch.iml" />
+    </modules>
+  </component>
+</project>
